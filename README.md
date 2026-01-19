@@ -1,6 +1,6 @@
 # TODO List – Flutter Web App
 
-A polished TODO List application built with Flutter (web‑first), using local JSON seed data and local storage persistence.
+A polished TODO List application built with Flutter (web‑first), using local JSON seed data.
 
 
 ## Project Structure
