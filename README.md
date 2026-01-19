@@ -2,11 +2,6 @@
 
 A polished TODO List application built with Flutter (web‑first), using local JSON seed data and local storage persistence.
 
-## Demo
-
-📹 **App Demo Video**: [`app_video.mov`](./app_video.mov)
-
-Watch the demo video to see all features in action!  
 
 ## Project Structure
 
